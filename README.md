@@ -21,7 +21,7 @@ A simple and efficient URL shortener service built with Python and Flask.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/url-shortener.git
+git clone https://github.com/nelwaderushikesh27/url-shortener.git
 
 # Navigate to directory
 cd url-shortener
